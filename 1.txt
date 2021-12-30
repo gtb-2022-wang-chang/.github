@@ -4,7 +4,7 @@ hello, this is my git test parctice
 haha,gaga
 
 
-i hate git
+i love git
 
 
 add new text
